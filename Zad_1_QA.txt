@@ -1,0 +1,10 @@
+Odpowiedzi na zadania do części: zadanie_1_QA
+
+Ad.1 Testy funkcjonalne dotyczą funkcji lub innych cech[6] (opisanych w dokumentach lub
+domniemanych przez testerów) oraz ich współdziałania z innymi systemami. Można je
+wykonywać na wszystkich poziomach (np. testy modułowe mogą bazować na specyfikacji
+modułów). Testowanie niefunkcjonalne obejmuje następujące (ale nie tylko te) typy testów: testowanie
+wydajnościowe, testowanie obciążeniowe, testowanie przeciążeniowe, testowanie
+użyteczności, testowanie pielęgnowalności, testowanie niezawodności oraz testowanie
+przenaszalności. Testowanie niefunkcjonalne polega na sprawdzeniu "jak" system działa.
+Podsumowując, testy finkcjonalne służą jak sama nazwa wskazuje do testowania funkcji np. jakie ma system spełnić, a niefunkcjonalne zajmują się zewnętrznym zachowaniem oprogramowania.
